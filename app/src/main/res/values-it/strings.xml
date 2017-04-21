@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lettore QR Code</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="action_sign_in">Accedi</string>
+    <string name="action_sign_in_short">Accedi</string>
+    <string name="auto_focus">Auto focus</string>
+    <string name="barcode_error">\"Errore nella lettura del codice: %1$s\"</string>
+    <string name="barcode_failure">Scansiona un codice per iniziare</string>
+    <string name="barcode_header">Premere per catturare il codice</string>
+    <string name="barcode_success">Codice letto correttamente</string>
+    <string name="error_field_required">Campo necessareio</string>
+    <string name="error_incorrect_password">Password non corretta</string>
+    <string name="error_invalid_email">Mail non valida</string>
+    <string name="error_invalid_password">Password troppo corta</string>
+    <string name="no_camera_permission">Applicazione non ha i permessi necessari per essere eseguita</string>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Per la lettura è necessario utilizzare la fotocamera</string>
+    <string name="read_barcode">Scansiona Codice</string>
+    <string name="use_flash">Utilizza Flash</string>
+    <string name="leggenda">Premere per catturare. Pinch/Stretch per effetuare lo zoom</string>
+    <string name="Wifi">Rete WiFi aggiunta</string>
+</resources>

@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.chiappins.lettoreqr.MainActivity">
+    <item
+        android:id="@+id/flash"
+        android:title="@string/use_flash"
+        android:checkable="true"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/focus"
+        android:title="@string/auto_focus"
+        android:checkable="true"
+        android:checked="true"
+        app:showAsAction="never" />
+</menu>
